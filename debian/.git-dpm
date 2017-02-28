@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+bc6a82f45d8d19ce24f1eaca8228e178bb43c28e
+bc6a82f45d8d19ce24f1eaca8228e178bb43c28e
+bc6a82f45d8d19ce24f1eaca8228e178bb43c28e
+bc6a82f45d8d19ce24f1eaca8228e178bb43c28e
+contextlib2_0.5.1.orig.tar.gz
+84df5bd1b2fe44f5804864f8dbebd38ea84e5827
+25186
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
