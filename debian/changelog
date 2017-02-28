@@ -2,6 +2,7 @@ contextlib2 (0.5.1-1~precise0+exo1) precise; urgency=medium
 
   * Backport for Precise.
      + Disable Python 3 package.
+     + Disable tests (need a too recent version of unittest2).
 
  -- Vincent Bernat <bernat@debian.org>  Tue, 28 Feb 2017 13:19:12 +0100
 
