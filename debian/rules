@@ -4,7 +4,7 @@ export PYBUILD_TEST_ARGS={dir}/
 export PYBUILD_NAME=contextlib2
 
 %:
-	dh $@ --with python2,python3 --buildsystem=pybuild
+	dh $@ --with python2 --buildsystem=pybuild
 
 override_dh_installchangelogs:
 	dh_installchangelogs -k NEWS.rst
